@@ -3,7 +3,7 @@ package test;
 import main.Config;
 import main.PhoneProcessing;
 import org.junit.Test;
-import static test.utils.TestUtils.assertTests;
+import static test.TestUtils.assertTests;
 
 public class PhoneProcessingTest {
     private Config config= Config.getInstance();
